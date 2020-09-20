@@ -1,0 +1,139 @@
+.blog-post {
+    margin-bottom: 50px;
+}
+
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: #545e69;
+}
+
+main.container {
+    padding: 0px;
+}
+
+.p-4 {
+    margin-bottom: 50px;
+    background-color: #f5f5f5;
+}
+
+.secondary.col-lg-4.col-12 {
+    background-color: #dae3e7;
+}
+
+.primary.col-lg-8.col-12 {
+    background-color: #dae3e7;
+}
+
+.textlight {
+    color: #777a7b;
+    padding-bottom: 8px;
+}
+
+.rt {
+    height: 180px;
+    width: 170px;
+    background-color: #bbb;
+    border-radius: 100%;
+    display: inline-block;
+}
+
+.rt1 {
+    background: #b0b7bf;
+    height: 35px;
+    width: 35px;
+    background-color: #bbb;
+    border-radius: 100%;
+    display: inline-block;
+    margin: 5px;
+}
+
+
+/* .con {
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: block;
+    background-color: white;
+} */
+
+.container.d-flex.justify-content-between {
+    padding: 0px 0px;
+}
+
+.mt {
+    margin-top: 60px;
+}
+
+.body {
+    margin: 0;
+    font-family: var(--bs-font-sans-serif);
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    /* color: #212529; */
+    background-color: #DAE3E7;
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: transparent;
+}
+
+.middle-front {
+    margin-left: 35px;
+    margin-top: 25px;
+}
+
+.sendclass {
+    background-color: lightblue;
+    color: white;
+    padding: 0px;
+    margin-top: 60px;
+    margin-bottom: 60px;
+    margin-left: 0px;
+    margin-right: 0px;
+    font-style: normal;
+    height: 35px;
+    align-items: flex-end;
+}
+
+.send {
+    color: white;
+    height: 20px;
+    width: 20px;
+}
+
+.row {
+    display: block;
+    margin: 100px;
+}
+
+.footer {
+    color: white;
+    background-color: black;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.footer>p {
+    margin: 0px;
+}
+
+.container {
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 25px;
+    margin-bottom: 50px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    background-color: #f5f5f5;
+}
+
+.col1 {
+    margin-right: 55px;
+}
+
+.col2 {
+    margin-left: 50px;
+}
